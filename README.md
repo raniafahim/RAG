@@ -19,6 +19,8 @@ Génère une base vectorielle nommée **`chroma_db_v0`** à partir des textes de
 
 Génère une base vectorielle nommée **`chroma_db_article`**, cette fois en découpant les documents selon leur **structure en articles** (basée sur le sommaire).
 
+C'est ce dossier qu'il faut récupérer pour lancer l'application streamlit. 
+
 ---
 
 ### 3. `results_article`
